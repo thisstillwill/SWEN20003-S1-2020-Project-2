@@ -1,0 +1,23 @@
+UML Notation
+------------
+Methods: 2/2
+Attributes: 2/2
+Association: 1.5/2
+
+Design
+------------
+Class breakdown: 1.5/2
+Method/attribute use: 0.5/1
+Inheritance and interfaces: 1/1
+
+Overall
+------------
+8.5/10
+
+Feedback
+------------
+(Associations -0.5) Your Composition and aggregation lines are facing the wrong direction. Bidirectional associations
+should have no arrowheads. Abstract methods also need to be italicised. (Class Breakdown -0.5) Main class missing, main
+class needs main method. (Method/Attribute Use -0.5) You should include a reference/association to gameobjects in your
+shadowdefend as they need to exist in the game world. Note that this  should be done polymorphically. Slicer should not
+have a reference to the projectile.
