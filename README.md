@@ -19,5 +19,9 @@ Ensure both `ShadowDefend.jar` and `res` are in the same directory.
 java -jar ShadowDefend.jar
 ```
 
+## Credits
+
+* [Bagel](https://people.eng.unimelb.edu.au/mcmurtrye/bagel-doc/) - A Java graphics library
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
