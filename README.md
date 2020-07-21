@@ -1,5 +1,7 @@
 # SWEN20003 S1 2020 Project 2
 
+![Game Screenshot](screenshot.png)
+
 This repository contains my final submission for both Project 2A and Project 2B of SWEN20003 Object Oriented Software Development. Project 2 centered around the design and implementation of Shadow Defend, a tower defense game, from the provided specification.
 
 ## Contents
