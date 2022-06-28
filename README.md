@@ -6,12 +6,12 @@ This repository contains my final submission for both Project 2A and Project 2B 
 
 ## Contents
 
-* `wsvoboda-project-2` - Directory containing source code and miscellaneous files from original submission of both project parts
-* `Project 2 Specification.pdf` - Project specification
-* `project-2a-wsvoboda.txt` - Grade report for Project 2A with breakdown of marks received
-* `project-2b-wsvoboda.txt` - Grade report for Project 2B with breakdown of marks received
-* `ShadowDefend.jar` - Executable for the Shadow Defend game
-* `res` - Directory containing all resource files for Shadow Defend
+- `wsvoboda-project-2/` - Directory containing source code and miscellaneous files from original submission of both project parts
+- `Project 2 Specification.pdf` - Project specification
+- `project-2a-wsvoboda.txt` - Grade report for Project 2A with breakdown of marks received
+- `project-2b-wsvoboda.txt` - Grade report for Project 2B with breakdown of marks received
+- `ShadowDefend.jar` - Executable for the Shadow Defend game
+- `res` - Directory containing all resource files for Shadow Defend
 
 ## Usage
 
@@ -23,7 +23,8 @@ java -jar ShadowDefend.jar
 
 ## Credits
 
-* [Bagel](https://people.eng.unimelb.edu.au/mcmurtrye/bagel-doc/) - A Java graphics library
+- [Bagel](https://people.eng.unimelb.edu.au/mcmurtrye/bagel-doc/) - A Java graphics library
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
